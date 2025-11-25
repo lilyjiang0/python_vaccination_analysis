@@ -11,3 +11,7 @@
 - Peak days
 - The lowest percentage of fully vaccinated people
 - Predict days take to get to 80% fully vaccinated
+
+## Contributors
+- @lilyjiang0
+- @TracyHe7
